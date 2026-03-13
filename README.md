@@ -2,9 +2,8 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://cran.r-project.org/web/packages/MSclassifR/index.html"><img src="https://cranlogs.r-pkg.org/badges/grand-total/MSclassifR?color=green" alt="Total Downloads"></a>
-   <a href="https://cran.r-project.org/package=MSclassifR"> <img src="https://cranlogs.r-pkg.org/badges/last-week/MSclassifR?color=yellow" alt="Weekly Downloads"> </a>
+  <a href="https://cran.r-project.org/package=MSclassifR"> <img src="https://cranlogs.r-pkg.org/badges/last-month/MSclassifR?color=yellow" alt="Weekly Downloads"> </a>
   <a href="https://cran.r-project.org/web/packages/MSclassifR/index.html"><img src="https://www.r-pkg.org/badges/version/MSclassifR" alt="Version"></a>
-  <a href="https://cran.r-project.org/web/checks/check_results_MSclassifR.html"><img src="https://badges.cranchecks.info/worst/MSclassifR.svg" alt="CRAN Checks"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPL v3 License"></a>
   <a href="https://doi.org/10.1016/j.eswa.2025.128796">
     <img src="https://img.shields.io/badge/https://doi.org/10.1101/2022.03.14.484252-blue.svg" alt="DOI Badge">
